@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmmelo3
 - 👀 I’m interested in learning more about GitHub, DevOps; Docker, Kubernetes, Cloud Native Applications, etc...
 - 📫 How to reach me ... 
-- :mailbox: mmelocloudgmail.com
+- ✉️ mmelocloudgmail.com
 - :link: linkedin.com/in/marcelomoraisdemelo
 - @marcelo14369548
 
